@@ -57,7 +57,7 @@ A Flutter-based bill splitting app designed specifically for Canadians. This sid
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/LoonieSplit.git
+git clone https://github.com/KLeung1997/LoonieSplit.git
 cd LoonieSplit
 ```
 
